@@ -23,6 +23,6 @@ In order to get an insight into the dataset, I have used matplotlib and seaborn 
 This helped me in visualising the relationship between the predictors and the target variable and also correlation between the predictor variables and I was able to draw some significant insights.
 
 ## Classification models
-I used Random Forest and Logistic Regression Machine and obtained the following accuracies on test-set data:
+I used Random Forest and Logistic Regression and obtained the following accuracies on test-set data:
 1. Logistic regression: 93.44%
 2. Random Forest: 96.72%
